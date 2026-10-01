@@ -1,0 +1,6 @@
+@ASP_MES_HostAddress = http://localhost:5257
+
+GET {{ASP_MES_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

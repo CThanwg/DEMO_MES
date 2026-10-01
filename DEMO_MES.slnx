@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ASP_MES/ASP_MES.csproj" />
+  <Project Path="MES.Application/MES.Application.csproj" />
+  <Project Path="MES.DOMAIN/MES.DOMAIN.csproj" />
+  <Project Path="MES.Infrastructure/MES.Infrastructure.csproj" />
+  <Project Path="WINFORM_MES/WINFORM_MES.csproj" />
+</Solution>
